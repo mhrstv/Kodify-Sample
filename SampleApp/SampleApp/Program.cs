@@ -20,3 +20,5 @@ await markdownGenerator.GenerateReadMe(
     "Install the app on your desired platform\nRun as you wish and test the usage of Kodify.");
 
 markdownGenerator.GenerateChangelog();
+
+// Changelog test
