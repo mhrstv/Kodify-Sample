@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Kodify" Version="0.0.32" />
+    <PackageReference Include="Kodify" Version="0.1.2" />
   </ItemGroup>
 
 </Project>
