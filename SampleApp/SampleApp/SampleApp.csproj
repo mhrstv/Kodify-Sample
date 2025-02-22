@@ -8,9 +8,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Kodify" Version="0.1.8-dev-0014" />
-    <PackageReference Include="Kodify.DevOps" Version="0.1.8-dev-0004" />
-    <PackageReference Include="Kodify.Extensions" Version="0.1.8-dev-0005" />
+    <PackageReference Include="Kodify" Version="0.1.8" />
+    <PackageReference Include="Kodify.DevOps" Version="0.1.8" />
+    <PackageReference Include="Kodify.Extensions" Version="0.1.8" />
   </ItemGroup>
 
 </Project>
